@@ -95,6 +95,10 @@ python main.py
 
 ---
 
+![Screenshot 2024-11-28 201235](https://github.com/user-attachments/assets/baba3e7a-c8f2-45c7-b957-de94ca854978)
+![Screenshot 2024-11-28 201206](https://github.com/user-attachments/assets/5c37cb7f-9527-41d5-bd90-5393cb09511b)
+
+
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to **open an issue** or **submit a pull request** on GitHub.
